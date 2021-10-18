@@ -15,8 +15,8 @@ These are the shared libraries of components and templates that will support the
 * **[Scrollytelling template](https://onsvisual.github.io/svelte-scrolly)** - Rich media template with scrollytelling functionality. See also proof-of-concept for importing ArchiML.
 * **[Chart component library](https://onsvisual.github.io/svelte-charts)** - Chart components built in Svelte. Can be imported [via NPM](https://svelte.dev/repl/324b696de5304ceebbe0213511e7ed23?version=3.44.0) or used [in vanilla JS](https://codepen.io/bothness/pen/RwVJvav).
 * **Map component library** - Not online yet. Example map components can be [found here](https://svelte.dev/repl/ceadf2f8288a4feabb933837f9a4d553?version=3.44.0).
-* **UI component library** - Not online yet. Some examples can be found here and here (and also within other demos).
-* **Census data over time pipeline** - Not online yet. Python scripts for aggregating consistent data across censuses.
+* **UI component library** - Not online yet. Some examples can be found [here](https://svelte.dev/repl/6567a57c08774491b523a34345f8e279?version=3.44.0) and [here](https://svelte.dev/repl/26a3c06475264c6d8917d57bab1174c9?version=3.44.0) (and also within other demos).
+* **Census data over time pipeline** - Not online yet. Python scripts for aggregating consistent data across censuses. Sample data [here](https://github.com/onsvisual/census-data-v2).
 
 ## In the Wild
 Published ONS releases building on the various prototypes and code in development for Census 2021.
