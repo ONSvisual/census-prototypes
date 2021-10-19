@@ -6,7 +6,7 @@ These are the main products that we intend to release in some for in time for pu
 * **[Census atlas](https://onsvisual.github.io/census-atlas)** - Explore geographic patterns in data down to a small area level.
 * **[Area reports](https://theojolliffe.github.io/area-reports/)** - 'Robo-journalism' reports highlighing significant changes in an area between censuses. See also this [earlier demo](https://bothness.github.io/census-robo-v1/).
 * **[Area explorer](https://bothness.github.io/area-explorer)** - Navigate through geographic hierarchies and see population data with change from previous census.
-* **[Sup-population explorer](https://bothness.github.io/sub-profiles)** - Select a sub-population group and see how it compares to others (relies on Cantabular API). See also this [earlier demo](https://bothness.github.io/sub-pop/).
+* **[Sub-population explorer](https://bothness.github.io/sub-profiles)** - Select a sub-population group and see how it compares to others (relies on Cantabular API). See also this [earlier demo](https://bothness.github.io/sub-pop/).
 * **[Draw your geography](https://onsvisual.github.io/geo-draw)** - Draw a custom geography and get data, lookups and boundaries (relies on Nomis API and ONS Geography Linked Data).
 * **[Build an area profile](https://bothness.github.io/build-profile)** - Build an embeddable/downloadable mini-area profile. Select an area and select datasets.
 
