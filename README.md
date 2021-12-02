@@ -4,7 +4,7 @@ This is a summary of the various prototypes that are being developed by the ONS 
 ## Core products
 These are the main products that we intend to release in some for in time for publication of Census 2021 data. The links below are to the most recent prototypes. URLs are likely to change.
 * **[Census atlas](https://onsvisual.github.io/census-atlas)** - Explore geographic patterns in data down to a small area level.
-* **[Area reports](https://theojolliffe.github.io/area-reports/)** - 'Robo-journalism' reports highlighing significant changes in an area between censuses. See also this [earlier demo](https://bothness.github.io/census-robo-v1/).
+* **[Area reports](https://theojolliffe.github.io/whats-changed/)** - 'Robo-journalism' reports highlighing significant changes in an area between censuses. See also this [earlier demo](https://bothness.github.io/census-robo-v1/).
 * **[Area explorer](https://bothness.github.io/area-explorer)** - Navigate through geographic hierarchies and see population data with change from previous census.
 * **[Sub-population explorer](https://bothness.github.io/sub-profile)** - Select a sub-population group and see how it compares to others (relies on Cantabular API). See also this [earlier demo](https://bothness.github.io/sub-pop/).
 * **[Draw your geography](https://onsvisual.github.io/geo-draw)** - Draw a custom geography and get data, lookups and boundaries (relies on Nomis API and ONS Geography Linked Data).
@@ -28,7 +28,7 @@ Published ONS releases building on the various prototypes and code in developmen
 ## Other demos
 ### Mapping examples
 * **[Dot density mapping](https://powerful-sea-44758.herokuapp.com/)** - Mapping categorical data. See also [calculating dot positions](https://observablehq.com/@jtrim-ons/dot-density-map-a-tweaked-version) + earlier [vanilla JS demo](https://bothness.github.io/census-dots/).
-* **[Historic map layers](https://bothness.github.io/ons-basemaps/)** - 
+* **[Historic map layers](https://bothness.github.io/ons-basemaps/)** -
 * **[3D Population density](https://bothness.github.io/census-pop-hex/)** - DeckGL example. 3D hex map based on output area data.
 * **[Multiply layer blend](https://svelte.dev/repl/63d10e8746c94dea80b86fe5c63c44d7?version=3.44.0)** - Using overlaid + synced Mapbox maps to achieve "multiply" layer blend effect.
 * **[Raster masking](https://svelte.dev/repl/0f273e9befba4607a5d5538de9294409?version=3.44.0)** - Masking choropleth area maps using a raster buildings mask layer (an alternative approach to dasymetric mapping with potential to reduce data and improve performance).
