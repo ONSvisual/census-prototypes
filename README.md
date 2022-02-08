@@ -21,6 +21,7 @@ These are the shared libraries of components and templates that will support the
 
 ## In the Wild
 Published ONS releases building on the various prototypes and code in development for Census 2021.
+* **[Age of the property is the biggest single factor in energy efficiency of homes](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01)** - Article with robojournalism element.
 * **[COVID-19 restrictions cut household emissions](https://www.ons.gov.uk/economy/environmentalaccounts/articles/covid19restrictionscuthouseholdemissions/2021-09-21)** - Carbon emissions calculator coded in Svelte and embedded in a static article.
 * **[Exploring local income deprivation](https://www.ons.gov.uk/visualisations/dvc1371/)** - Scrollytelling article with dynamic maps and localisation using basic robo-journalism techniques (source code available here).
 * **[Regional differences in income and productivity](https://www.ons.gov.uk/visualisations/dvc1370/)** - Scrollytelling article with dynamic maps and charts.
