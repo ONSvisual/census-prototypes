@@ -9,7 +9,7 @@ These are the main products that we intend to release in some for in time for pu
 * **[Key population explorer](https://onsvisual.github.io/key-pop-explorer)** - Select a sub-population group and see how it compares to others (relies on Cantabular API). See also this [earlier demo](https://bothness.github.io/sub-pop/).
 * **[Draw your geography](https://onsvisual.github.io/geo-draw)** - Draw a custom geography and get data, lookups and boundaries (relies on Nomis API and ONS Geography Linked Data).
 * **[Build an area profile](https://bothness.github.io/build-profile)** - Build an embeddable/downloadable mini-area profile. Select an area and select datasets.
-* * **[Hex map game](https://onsvisual.github.io/mapbusters/)** - Higher/lower geography quiz game on a hex map.
+* **[Hex map game](https://onsvisual.github.io/mapbusters/)** - Higher/lower geography quiz game on a hex map.
 
 ## Libraries
 These are the shared libraries of components and templates that will support the above products as well as other releases.
