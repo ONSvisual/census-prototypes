@@ -4,7 +4,7 @@ This is a summary of the various prototypes that are being developed by the ONS 
 ## Core products
 These are the main products that we intend to release in some for in time for publication of Census 2021 data. The links below are to the most recent prototypes. URLs are likely to change.
 * **[Census atlas](https://onsvisual.github.io/census-atlas)** - Explore geographic patterns in data down to a small area level.
-* **[Area reports](https://theojolliffe.github.io/sk-whats-changed2/)** - 'Robo-journalism' reports highlighing significant changes in an area between censuses. See also this [earlier demo](https://bothness.github.io/census-robo-v1/).
+* **[Area reports](https://area-reports.netlify.app/e07000223/)** - 'Robo-journalism' reports highlighing significant changes in an area between censuses. See also this [earlier demo](https://bothness.github.io/census-robo-v1/).
 * **[Area explorer](https://bothness.github.io/area-explorer)** - Navigate through geographic hierarchies and see population data with change from previous census.
 * **[Key population explorer](https://onsvisual.github.io/key-pop-explorer)** - Select a sub-population group and see how it compares to others (relies on Cantabular API). See also this [earlier demo](https://bothness.github.io/sub-pop/).
 * **[Draw your geography](https://onsvisual.github.io/geo-draw)** - Draw a custom geography and get data, lookups and boundaries (relies on Nomis API and ONS Geography Linked Data).
